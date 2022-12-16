@@ -9,3 +9,4 @@ The following are links/resources I find helpful and refer to and have been coll
 ## SVM:
 1. [RitvikMath SVM complete](https://www.youtube.com/watch?v=bM4_AstaBZo)
 2. [Everything about SVM in one article](https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589)
+3. [SVM sklearn for code and quick reference](https://scikit-learn.org/stable/modules/svm.html)
