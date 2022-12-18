@@ -7,7 +7,8 @@ of various DS/ML related libraries.
 The following are links/resources I find helpful and refer to and have been collected from youtube, linkedin and medium.
 
 ## ML Courses
-1. [Applied ML Cornell Tech 2020(short videos, practical applications](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+1. [Applied ML Cornell Tech 2020(short videos, practical applications)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+2. [Caltech ML course](https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg)
 
 
 ## SVM:
